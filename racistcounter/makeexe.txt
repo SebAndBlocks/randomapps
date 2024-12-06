@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --icon "C:/Users/sebas/Documents/github/randomapps/racistcounter/icon.ico" --collect-submodules "pillow" --collect-submodules "textual" --collect-submodules "textual-fspicker"  "C:/Users/sebas/Documents/github/randomapps/racistcounter/app.py"
