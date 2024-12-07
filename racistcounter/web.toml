@@ -1,3 +1,0 @@
-[app.RacistCounter]
-command = "python app.py"
-slug = "rc"
